@@ -1,1 +1,1 @@
-new-azurerg -name "prgpipeline" -location "eastus"
+new-azureresourcegroup -name "prgpipeline" -location "eastus"
